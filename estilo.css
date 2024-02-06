@@ -1,0 +1,30 @@
+body {
+    padding-top:150px;
+    background-image: url(anime.gif);width: 200px;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 227, 0.401);
+    
+   
+    }
+  .profile-card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #d808b535;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    margin: 0 auto;
+    display: block;
+  }
+  .profile-name {
+    text-align: center;
+    margin-top: 50px;
+  }
+  #COLUNA{background-color: rgba(84, 149, 255, 0.904);
+
+  }
+  
