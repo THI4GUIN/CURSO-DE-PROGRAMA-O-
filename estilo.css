@@ -1,6 +1,6 @@
 body {
     padding-top:150px;
-    background-image: url(anime.gif);width: 200px;
+    background-image: url(anime.gif);
     background-repeat: no-repeat;
     color: rgba(0, 0, 227, 0.401);
     
@@ -24,7 +24,7 @@ body {
     text-align: center;
     margin-top: 50px;
   }
-  #COLUNA{background-color: rgba(84, 149, 255, 0.904);
+  #COLUNA{background-color: rgba(84, 149, 255, 0.233);
 
   }
   
